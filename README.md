@@ -71,6 +71,6 @@ while True:
 ## Installation
 1. Clone this repository:
    bash
-   git clone https://github.com/Vaishnavi-76304/Fermi_Pico_Bagel..git
+   git clone (https://github.com/bhaguupatil-source/Fermi_Pico_Bagel)
    
 2. Open the Jupyter Notebook and follow the step-by-step instructions.
